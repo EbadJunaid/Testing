@@ -2,3 +2,5 @@ I am Ebad Juanid
 I am learning Git and Github
 I am in bug-fix branch
 
+this is a demo branch and now I am gona test the conflict with merging
+
