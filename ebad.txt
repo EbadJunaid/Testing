@@ -1,3 +1,10 @@
 I am Ebad Juanid
 I am learning Git and Github
+<<<<<<< HEAD
 I am in master branch
+=======
+I am in bug-fix branch
+
+this is a demo branch and now I am gona test the conflict with merging
+
+>>>>>>> bug-fix
