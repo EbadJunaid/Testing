@@ -1,1 +1,2 @@
 I am Ebad Juanid
+I am learning Git and Github
