@@ -1,1 +1,3 @@
-darkmode is enabled 
+darkmode is enabled
+There is some bug in my dark-mode and it is not working properly with orange and default one (fix this man):wq
+
