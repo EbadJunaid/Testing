@@ -1,3 +1,0 @@
-this is my darkmode.txt file 
-And in this file we need to write the code for darkmode 
-Remember : Write the optimized version of the code 
